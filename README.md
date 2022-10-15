@@ -1,2 +1,2 @@
-# RestAssuredAutomation
-Demo de automatización con Rest Assured, Maven, IntelliJ
+# APIRestAssuredAutomation
+API testing automation demo with Rest Assured, Maven, IntelliJ 
